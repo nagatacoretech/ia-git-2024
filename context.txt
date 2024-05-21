@@ -1,1 +1,3 @@
 featureで書いたよ
+mainで書いたよ
+
